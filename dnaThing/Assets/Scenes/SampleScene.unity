@@ -252,6 +252,11 @@ MonoBehaviour:
   offset: 1.2
   pairs: []
   rotateSpeed: 30
+  basePairs:
+  - {fileID: 1949017281504657519, guid: e7180e19f7e06054388608114cc73d6e, type: 3}
+  - {fileID: 5492271672041265406, guid: 66550927f9ab4fc4ca4c81c044054524, type: 3}
+  - {fileID: 5552134407474185693, guid: 0a375888b7e5cba4aa325ec121ec2b0a, type: 3}
+  - {fileID: 1844658148578812012, guid: 3970cc900f111644c8bf877f0edc67bc, type: 3}
 --- !u!4 &719701319
 Transform:
   m_ObjectHideFlags: 0
