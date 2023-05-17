@@ -1,4 +1,4 @@
-# project-x2
+# Project-X V1.1
 
 DNA Mutation At A Quantum Level - It's not rocket science!
 also informally called x-menlevelbiology because they're mutants and this project is on DNA mutation... I think I'm hilarious.
