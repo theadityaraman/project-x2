@@ -246,11 +246,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63046579ef144524685c68b0749a283e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pair: {fileID: 1356850243889441658, guid: df32dbb0f983777458bab7a1fd981bcb, type: 3}
+  pair: {fileID: 8132957060381644638, guid: 797b5cc6c2477ae47a6a8ec53d86e365, type: 3}
   noPairs: 40
   rotation: 13
   offset: 1.2
   pairs: []
+  rotateSpeed: 30
 --- !u!4 &719701319
 Transform:
   m_ObjectHideFlags: 0
