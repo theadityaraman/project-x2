@@ -246,17 +246,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63046579ef144524685c68b0749a283e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pair: {fileID: 8132957060381644638, guid: 797b5cc6c2477ae47a6a8ec53d86e365, type: 3}
-  noPairs: 40
-  rotation: 13
+  codeIdk: CCCCCCCCAAAAAAAAAAAAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUUUUUUGGGGGGUUUUUUUUUUUUCCCCCC
+  dnaPairs:
+  - character: 65
+    gameObject: {fileID: 1949017281504657519, guid: e7180e19f7e06054388608114cc73d6e, type: 3}
+  - character: 67
+    gameObject: {fileID: 5492271672041265406, guid: 66550927f9ab4fc4ca4c81c044054524, type: 3}
+  - character: 71
+    gameObject: {fileID: 5552134407474185693, guid: 0a375888b7e5cba4aa325ec121ec2b0a, type: 3}
+  - character: 84
+    gameObject: {fileID: 1844658148578812012, guid: 3970cc900f111644c8bf877f0edc67bc, type: 3}
+  - character: 85
+    gameObject: {fileID: 1844658148578812012, guid: 1f7bfb56f33a44447933003026522e65, type: 3}
+  pairPrefab: {fileID: 8132957060381644638, guid: 797b5cc6c2477ae47a6a8ec53d86e365, type: 3}
+  rotationSpeed: 30
   offset: 1.2
-  pairs: []
-  rotateSpeed: 30
-  basePairs:
-  - {fileID: 1949017281504657519, guid: e7180e19f7e06054388608114cc73d6e, type: 3}
-  - {fileID: 5492271672041265406, guid: 66550927f9ab4fc4ca4c81c044054524, type: 3}
-  - {fileID: 5552134407474185693, guid: 0a375888b7e5cba4aa325ec121ec2b0a, type: 3}
-  - {fileID: 1844658148578812012, guid: 3970cc900f111644c8bf877f0edc67bc, type: 3}
 --- !u!4 &719701319
 Transform:
   m_ObjectHideFlags: 0
