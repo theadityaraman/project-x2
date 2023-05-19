@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4609620402198228038}
   - component: {fileID: 39059297918734722}
   - component: {fileID: 240922674572425429}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: NT_Thymine
   m_TagString: Untagged
   m_Icon: {fileID: 0}

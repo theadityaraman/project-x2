@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5902147932138874030}
   - component: {fileID: 8412737320331293376}
   - component: {fileID: 4276996782610310904}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: NT_Cytosine
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4946681118180460256}
   - component: {fileID: 8473138803327578890}
   - component: {fileID: 3286141562549082946}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: NT_Guanine
   m_TagString: Untagged
   m_Icon: {fileID: 0}

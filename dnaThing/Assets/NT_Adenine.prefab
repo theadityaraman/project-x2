@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5991093090714791135}
   - component: {fileID: 306838066870784403}
   - component: {fileID: 7903674754140380142}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: NT_Adenine
   m_TagString: Untagged
   m_Icon: {fileID: 0}

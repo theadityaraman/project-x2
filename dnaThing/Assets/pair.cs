@@ -16,7 +16,7 @@ public class pair : MonoBehaviour
         GameObject BP2 = Instantiate(bp2, Vector3.zero, Quaternion.identity, transform);
         BP2.transform.localPosition = new Vector3(width, 0, 0);
 
-        Debug.Log(Vector3.Distance(BP2.transform.position, BP1.transform.position));
+        //Debug.Log(Vector3.Distance(BP2.transform.position, BP1.transform.position));
     }
 
 
