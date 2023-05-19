@@ -349,6 +349,8 @@
 "Assets/dna.cs"
 "Assets/pair.cs"
 "Assets/playerCam.cs"
+"Assets/RestrictInput.cs"
+"Assets/simManager.cs"
 -langversion:9.0
 
 /deterministic
